@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import mx.com.protecti.entity.Employee;
+import mx.com.proyecti.entity.Employee;
 import mx.com.proyecti.repository.EmployeeRepository;
 
 @Service //indica a Spring que esta lase representa la capa de servicios, expone a la clase para inicializar dependencias

@@ -1,7 +1,8 @@
 package mx.com.proyecti.service;
 
 import java.util.List;
-import mx.com.protecti.entity.Employee;
+
+import mx.com.proyecti.entity.Employee;
 
 public interface EmployeeService {
 	

@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication //spring boot
-@EnableAutoConfiguration
 //Indica a la plataforma que esta clase representa el punto de inicio de mi aplicacion, inplementada conS pring Boot
 
 public class EmployeeRest {
